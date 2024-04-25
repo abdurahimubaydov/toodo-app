@@ -12,3 +12,6 @@
     @reduxjs/toolkit, typescript, axios
 2) использованный UI 
     Chakra - UI
+
+
+[ссылка на приложение](https://662a991b9ca17a2883e77656--funny-pothos-3182f3.netlify.app/)
